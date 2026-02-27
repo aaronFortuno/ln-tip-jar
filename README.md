@@ -4,7 +4,7 @@ Web Component reutilitzable per acceptar microdonatius via **Lightning Network**
 
 ## Demo
 
-Prem [aquí](https://aaronfortuno.github.io/cafetet/) o bé obre `index.html` al navegador (o amb un servidor local) per veure el component en acció.
+Prem [aquí](https://aaronfortuno.github.io/ln-tip-jar/) o bé obre `index.html` al navegador (o amb un servidor local) per veure el component en acció.
 
 ## Ús
 
@@ -48,4 +48,4 @@ Prem [aquí](https://aaronfortuno.github.io/cafetet/) o bé obre `index.html` al
 
 ## Llicència
 
-MIT
+GNU General Public License v3.0
